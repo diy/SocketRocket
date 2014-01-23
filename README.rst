@@ -1,4 +1,4 @@
-This [SocketRocket](http://github.com/square/SocketRocket) fork simply removes assertions so that it is a little more friendly for production releases.
+This SocketRocket fork simply removes assertions so that it is a little more friendly for production releases.
 
 SocketRocket Objective-C WebSocket Client (beta)
 ================================================
