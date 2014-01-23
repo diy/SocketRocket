@@ -63,7 +63,7 @@
 
 - (void)webSocket:(SRWebSocket *)webSocket didReceiveMessage:(id)message;
 {
-    NSAssert(NO, @"Not implemented");
+//    NSAssert(NO, @"Not implemented");
 }
 
 - (void)webSocket:(SRWebSocket *)webSocket didFailWithError:(NSError *)error;
