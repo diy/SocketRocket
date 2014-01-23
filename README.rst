@@ -1,3 +1,5 @@
+This [SocketRocket](http://github.com/square/SocketRocket) fork simply removes assertions so that it is a little more friendly for production releases.
+
 SocketRocket Objective-C WebSocket Client (beta)
 ================================================
 A conforming WebSocket (`RFC 6455 <http://tools.ietf.org/html/rfc6455>`_)
